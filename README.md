@@ -1,6 +1,6 @@
 ## Hi, I'm Lutaok 👋
-I'm a Front End Developer collaborating with UI/UX and Design teams to deliver a good experience to the end users.
-I previously worked on **SmartTV** devices 📺
+I'm a Front End Developer collaborating with UI/UX and Design teams to deliver a good experience to the end users.  
+I previously worked on **SmartTV** devices that mounted WebOS, Tizen, SaphiOS, VEWD 📺  
 I am proficient with **ReactJS** and **Typescript** and I really like using **SCSS** to style my components ⚓
 
 My last education achievement is a Bachelor's Degree in **Computer Science** in Sapienza University of Rome.
