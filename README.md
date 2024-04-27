@@ -6,7 +6,7 @@ Worked on delivering fast and efficient user interfaces for:
 - Administrative Web Apps using **ReactJS**, **Typescript**, **Zustand** and **mxGraph**
 - Administrative Website using **Astro**, **Svelte** and **TailwindCSS**
 
-Currently learning:
+In love with:
 - **SolidJS**
 - **Go**
 
