@@ -22,14 +22,10 @@ Find me here:
 
 My last education achievement is a Bachelor's Degree in **Computer Science** in Sapienza University of Rome.
 
-
-
-
 Hope you'll enjoy your stay on my profile, I kindly appreciate any feedback that you might have, so please share it with me.
 
 Have a great time!
 
-<!---
-lutaok/lutaok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Github Stats
+
+[![Lutaok's Github Stats](https://github-readme-stats.vercel.app/api?username=lutaok&theme=aura_dark)](https://github.com/lutaok)
