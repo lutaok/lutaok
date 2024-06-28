@@ -1,5 +1,5 @@
 ## Hi, I'm Lutaok 👋
-I'm a Front End Developer working with **ReactJS** and **Typescript**.
+I'm a Front End Engineer working with **ReactJS**, **Typescript**, **Astro** and **Svelte**.
 
 Worked on delivering fast and efficient user interfaces for:
 - SmartTV Devices (WebOS, Tizen, SaphiOS, VEWD) using **ReactJS**, **Typescript**, **Redux Toolkit** and **Redux Toolkit Query**
